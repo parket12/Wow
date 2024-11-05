@@ -1,0 +1,93 @@
+html {
+   font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: #f2f2f2; 
+    color: #333; 
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3 {
+    color: #cc0000;
+}
+
+.jumbotron {
+    background-color: #e0e0e0; 
+    color: #cc0000; 
+    padding: 2rem 1rem;
+}
+.jumbotron p {
+    color: #333;
+}
+
+.jumbotron .btn {
+    background-color: #cc0000;
+    color: #fff;
+    border: none;
+}
+
+.jumbotron .btn:hover {
+    background-color: #990000;
+}
+
+
+.products {
+    margin-top: 50px;
+}
+
+.product-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.product-card h3 {
+    color: #cc0000;
+}
+
+.product-card p {
+    color: #666; 
+}
+
+.product-card:hover {
+    transform: scale(1.05); 
+}
+
+footer {
+    background-color: #cc0000;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.catalog-body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+
+
+    .product-card:hover {
+        transform: scale(1.05);
+    }
+
+    .product-card img {
+        max-width: 100%;
+        border-radius: 5px;
+    }

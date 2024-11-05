@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Product>
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/styles.css" />
+    <title>@ViewData["Title"]</title>
+    <style>
+        .catalog-body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            padding: 20px;
+        }
+
+        .product-card {
+            background-color: #ccc; /* Серый цвет карточки */
+            color: black; /* Цвет текста */
+            border-radius: 10px;
+            width: 200px; /* Ширина карточки */
+            margin: 10px; /* Отступы между карточками */
+            padding: 15px; /* Внутренние отступы */
+            text-align: center; /* Выравнивание текста по центру */
+            transition: transform 0.3s; /* Плавный переход при увеличении */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Тень для карточки */
+        }
+
+            .product-card img {
+                max-width: 100%; /* Ограничение ширины изображения */
+                height: auto; /* Автоматическая высота изображения */
+                border-radius: 5px; /* Скругление углов изображения */
+            }
+
+            .product-card:hover {
+                transform: scale(1.05); /* Увеличение карточки при наведении */
+            }
+    </style>
+</head>
+<body class="catalog-body">
+    <div>
+        <h2>Каталог продуктов</h2>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+            @foreach (var product in Model)
+            {
+                <div class="product-card">
+                    <img src="@Url.Content(product.img)" alt="@product.NameOfProduct" />
+                    <h5>@product.NameOfProduct</h5>
+                    <p>Цена: @product.Cost.ToString("C")</p>
+                </div>
+            }
+        </div>
+    </div>
+</body>
+</html>

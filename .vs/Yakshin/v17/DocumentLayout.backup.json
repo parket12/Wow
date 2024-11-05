@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\views\\home\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\views\\home\\userslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\views\\home\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\views\\home\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\views\\home\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\views\\home\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\views\\home\\singup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\views\\home\\singup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\views\\home\\singin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\views\\home\\singin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\views\\home\\catalog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\models\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|c:\\users\\xiaomi\\source\\repos\\yakshin\\yakshin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D6F907-8E30-41FE-9AB0-EC038AA7046B}|Yakshin\\Yakshin.csproj|solutionrelative:yakshin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\appsettings.json",
+              "RelativeDocumentMoniker": "Yakshin\\appsettings.json",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\appsettings.json",
+              "RelativeToolTip": "Yakshin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T10:09:34.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Catalog.cshtml",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\Catalog.cshtml",
+              "RelativeDocumentMoniker": "Yakshin\\Views\\Home\\Catalog.cshtml",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\Catalog.cshtml",
+              "RelativeToolTip": "Yakshin\\Views\\Home\\Catalog.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:50:18.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "Yakshin\\Views\\Home\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\EditUser.cshtml",
+              "RelativeToolTip": "Yakshin\\Views\\Home\\EditUser.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:37:43.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersList.cshtml",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\UsersList.cshtml",
+              "RelativeDocumentMoniker": "Yakshin\\Views\\Home\\UsersList.cshtml",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\UsersList.cshtml",
+              "RelativeToolTip": "Yakshin\\Views\\Home\\UsersList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:37:29.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Yakshin\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Yakshin\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:24:06.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\AdminPage.cshtml",
+              "RelativeDocumentMoniker": "Yakshin\\Views\\Home\\AdminPage.cshtml",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\AdminPage.cshtml",
+              "RelativeToolTip": "Yakshin\\Views\\Home\\AdminPage.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:22:51.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "Yakshin\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\Roles.cs",
+              "RelativeToolTip": "Yakshin\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:19:27.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Yakshin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Yakshin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T09:11:29.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "Yakshin\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "Yakshin\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:09:52.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Yakshin\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\Users.cs",
+              "RelativeToolTip": "Yakshin\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:09:51.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SingUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\SingUp.cshtml",
+              "RelativeDocumentMoniker": "Yakshin\\Views\\Home\\SingUp.cshtml",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\SingUp.cshtml",
+              "RelativeToolTip": "Yakshin\\Views\\Home\\SingUp.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T08:30:20.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\SingIn.cshtml",
+              "RelativeDocumentMoniker": "Yakshin\\Views\\Home\\SingIn.cshtml",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Views\\Home\\SingIn.cshtml",
+              "RelativeToolTip": "Yakshin\\Views\\Home\\SingIn.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T08:30:08.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Yakshin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Yakshin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwGoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:25:24.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Program.cs",
+              "RelativeDocumentMoniker": "Yakshin\\Program.cs",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Program.cs",
+              "RelativeToolTip": "Yakshin\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:26:21.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Yakshin\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\xiaomi\\source\\repos\\Yakshin\\Yakshin\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Yakshin\\Models\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T08:25:59.718Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
